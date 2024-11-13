@@ -11,4 +11,3 @@ Für jeden Anwendungsfall gibt es einen Ordner: `diagrams/B#`. In diesen Ordner 
 Das übergreifende Klassendiagramm inkl. Beschreibung befindet sich im Ordner `diagrams/Klassendiagramm`.
 
 Das LaTex-Projekt für die Dokumentation befindet sich im Ordner `Doku`.
->>>>>>> b5d963a (more)
