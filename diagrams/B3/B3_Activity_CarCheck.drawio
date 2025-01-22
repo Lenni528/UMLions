@@ -1,0 +1,144 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram name="Seite-1" id="EGFpPbwpN3NIDaKOlWR-">
+    <mxGraphModel dx="398" dy="237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-3" target="UOC-WSwIjxDrMaPfgAcJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="520" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-3" value="get car" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-4" target="UOC-WSwIjxDrMaPfgAcJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-4" value="" style="shape=ellipse;html=1;fillColor=strokeColor;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="300" y="440" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-10" target="UOC-WSwIjxDrMaPfgAcJ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-10" value="check car condition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-31" target="UOC-WSwIjxDrMaPfgAcJ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-35" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%5Bcar%20condition%20is%20bad%5D%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22487.1428571428571%22%20y%3D%22930%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UOC-WSwIjxDrMaPfgAcJ-34">
+          <mxGeometry x="-0.1452" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-48" value="[car condition is bad]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UOC-WSwIjxDrMaPfgAcJ-34">
+          <mxGeometry x="-0.1231" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-31" target="UOC-WSwIjxDrMaPfgAcJ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-49" value="[car condition is good]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UOC-WSwIjxDrMaPfgAcJ-37">
+          <mxGeometry x="-0.2204" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-31" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="670" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-33" target="UOC-WSwIjxDrMaPfgAcJ-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-33" value="calculate repair costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-36" target="UOC-WSwIjxDrMaPfgAcJ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-36" value="check fuel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-40" target="UOC-WSwIjxDrMaPfgAcJ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-51" value="[fuel &amp;lt;= 80%]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UOC-WSwIjxDrMaPfgAcJ-43">
+          <mxGeometry x="-0.1363" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-40" target="UOC-WSwIjxDrMaPfgAcJ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-52" value="[fuel &amp;gt; 80%]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UOC-WSwIjxDrMaPfgAcJ-46">
+          <mxGeometry x="-0.0612" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-40" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="910" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-42" target="UOC-WSwIjxDrMaPfgAcJ-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-42" value="calculate fuel costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-45" value="check car cleanliness" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-53" target="UOC-WSwIjxDrMaPfgAcJ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-57" value="[car is not clean]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UOC-WSwIjxDrMaPfgAcJ-56">
+          <mxGeometry x="-0.1963" y="-1" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-53" target="UOC-WSwIjxDrMaPfgAcJ-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-62" value="[car is clean]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UOC-WSwIjxDrMaPfgAcJ-59">
+          <mxGeometry x="-0.0571" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-53" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1150" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-45" target="UOC-WSwIjxDrMaPfgAcJ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-55" target="UOC-WSwIjxDrMaPfgAcJ-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-55" value="calculate cleaning costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-58" value="check car cleanliness" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-63" value="create return protocol" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOC-WSwIjxDrMaPfgAcJ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOC-WSwIjxDrMaPfgAcJ-58" target="UOC-WSwIjxDrMaPfgAcJ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
